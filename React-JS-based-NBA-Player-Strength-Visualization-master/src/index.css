@@ -1,0 +1,23 @@
+@import '~antd/dist/antd.css';
+@import "./css/App.css";
+@import "./css/TopBar.css";
+@import "./css/ShortChart.css";
+@import "./css/Profile.css";
+@import "./css/Main.css";
+@import "./css/DataViewContainer.css";
+@import "./css/SearchBar.css";
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
